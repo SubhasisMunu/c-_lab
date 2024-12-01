@@ -1,0 +1,14 @@
+F:\visual studio\c#\assignment-4\bin\Debug\net8.0\assignment-4.exe
+F:\visual studio\c#\assignment-4\bin\Debug\net8.0\assignment-4.deps.json
+F:\visual studio\c#\assignment-4\bin\Debug\net8.0\assignment-4.runtimeconfig.json
+F:\visual studio\c#\assignment-4\bin\Debug\net8.0\assignment-4.dll
+F:\visual studio\c#\assignment-4\bin\Debug\net8.0\assignment-4.pdb
+F:\visual studio\c#\assignment-4\obj\Debug\net8.0\assignment-4.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\c#\assignment-4\obj\Debug\net8.0\assignment-4.AssemblyInfoInputs.cache
+F:\visual studio\c#\assignment-4\obj\Debug\net8.0\assignment-4.AssemblyInfo.cs
+F:\visual studio\c#\assignment-4\obj\Debug\net8.0\assignment-4.csproj.CoreCompileInputs.cache
+F:\visual studio\c#\assignment-4\obj\Debug\net8.0\assignment-4.dll
+F:\visual studio\c#\assignment-4\obj\Debug\net8.0\refint\assignment-4.dll
+F:\visual studio\c#\assignment-4\obj\Debug\net8.0\assignment-4.pdb
+F:\visual studio\c#\assignment-4\obj\Debug\net8.0\assignment-4.genruntimeconfig.cache
+F:\visual studio\c#\assignment-4\obj\Debug\net8.0\ref\assignment-4.dll
